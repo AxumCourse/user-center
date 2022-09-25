@@ -1,0 +1,11 @@
+[package]
+name = "user-center"
+version = "0.1.0"
+edition = "2021"
+authors = ["axum.rs <team@axum.rs>"]
+license = "MIT"
+repository = "https://github.com/AxumCourse/user-center"
+homepage = "https://axum.rs"
+description = "axum.rs专题：使用axum构建用户中心"
+
+[dependencies]
