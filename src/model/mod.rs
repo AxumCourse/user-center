@@ -1,4 +1,7 @@
-mod user;
+pub mod email;
+pub mod mysql;
+pub mod user;
 
-pub use user::*;
+pub use email::Email;
+pub use user::User;
 pub struct AppStatus {}
